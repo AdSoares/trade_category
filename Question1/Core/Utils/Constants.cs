@@ -9,6 +9,6 @@
         public const string MEDIUMRISK = "MEDIUMRISK";
         public const string HIGHRISK = "HIGHRISK";
 
-        public const string CATEGORY_RULE_NOT_FOUND = "Regra não encontrada.";
+        public const string CATEGORY_RULE_NOT_FOUND = "Rule not found.";
     }
 }
